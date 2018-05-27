@@ -1,6 +1,8 @@
 <template>
     <div class="flex flex-col items-center justify-center h-screen">
-        <h1 class="text-grey-dark text-4xl" v-text="msg"></h1>
+        <h1 class="text-grey-dark text-4xl" v-text="msg">
+            Coming Soon
+        </h1>
         <p class="text-grey-dark text-4xl" v-text="msg2"></p>
     </div>
 </template>
